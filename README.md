@@ -1,4 +1,4 @@
-# Data Analysis portfolio
+# Data Analysis Portfolio
 
 ## Descripción
 Este repositorio contiene diferentes análisis de bases de datos y modelos de Machine Learning aplicados a la predicción de targets dependiendo de la base.
