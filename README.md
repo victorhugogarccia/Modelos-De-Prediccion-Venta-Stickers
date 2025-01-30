@@ -1,7 +1,7 @@
-# Forecasting Sticker Sales - Data Analysis and ML Models
+# Data Analysis portfolio
 
 ## Descripción
-Este repositorio contiene diferentes análisis de bases de datos y modelos de Machine Learning aplicados a la predicción del target dependiendo de la base.
+Este repositorio contiene diferentes análisis de bases de datos y modelos de Machine Learning aplicados a la predicción de targets dependiendo de la base.
 
 Debido al tamaño comparto mi notebook en zip llamado **"Forecasting Sticker Sales Data Analysis and ML Models"**, donde se sigue un flujo estructurado desde la exploración y limpieza de datos hasta la implementación y evaluación de modelos de predicción.
 
