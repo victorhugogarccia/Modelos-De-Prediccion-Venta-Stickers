@@ -1,7 +1,9 @@
 # Forecasting Sticker Sales - Data Analysis and ML Models
 
 ## Descripción
-Este repositorio contiene un análisis de datos y modelos de Machine Learning aplicados a la predicción de ventas de stickers. Se desarrolla en un Jupyter Notebook titulado **"Forecasting Sticker Sales - Data Analysis and ML Models"**, donde se sigue un flujo estructurado desde la exploración y limpieza de datos hasta la implementación y evaluación de modelos de predicción.
+Este repositorio contiene diferentes análisis de bases de datos y modelos de Machine Learning aplicados a la predicción del target dependiendo de la base.
+
+Debido al tamaño comparto mi notebook en zip llamado **"Forecasting Sticker Sales Data Analysis and ML Models"**, donde se sigue un flujo estructurado desde la exploración y limpieza de datos hasta la implementación y evaluación de modelos de predicción.
 
 ## Contenido del Notebook
 1. **Exploración de la base de datos:**
@@ -19,8 +21,8 @@ Este repositorio contiene un análisis de datos y modelos de Machine Learning ap
    - **Regresión Lineal (Linear Regression)**
    - **Regresión Ridge (Ridge Regression)**
    - **Regresión por Descenso de Gradiente Estocástico (SGD Regression)**
-   - **Regresor de Árbol de Decisión (Decision Tree Regressor)**
-   - **Bosque Aleatorio (Random Forest Regressor)**
+   - **Decision Tree Regressor**
+   - **Random Forest Regressor**
 
 4. **Evaluación de modelos:**
    - Comparación de métricas como MAE, MSE y R² para cada modelo.
